@@ -28,7 +28,7 @@ Desenvolver um site, simples e rápido, que servisse para exercitar o conhecimen
 
 - #### SUSHI WEB PAGE - PC :computer: :
 
-![SUSHI WEB PAGE - PC](C:\Users\Andre Filho\Desktop\Portifólio\SCREENSHOTS\SUSHI - PC.png "SUSHI WEB PAGE - PC")
+![SUSHI WEB PAGE - PC](C:\Users\Andre Filho\Desktop\Portifólio\SUSHI\SCREENSHOTS\SUSHI - PC.png "SUSHI WEB PAGE - PC")
 
 ---
 
@@ -36,7 +36,7 @@ Desenvolver um site, simples e rápido, que servisse para exercitar o conhecimen
 
 - #### SUSHI WEB PAGE - MOBILE :iphone: :
 
-![SUSHI WEB PAGE - MOBILE](C:\Users\Andre Filho\Desktop\Portifólio\SCREENSHOTS\SUSHI - Mobile.png "SUSHI WEB PAGE - MOBILE")
+![SUSHI WEB PAGE - MOBILE](C:\Users\Andre Filho\Desktop\Portifólio\SUSHI\SCREENSHOTS\SUSHI - Mobile.png "SUSHI WEB PAGE - MOBILE")
 
 ---
 
