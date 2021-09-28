@@ -1,0 +1,112 @@
+
+.btn {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    margin: 0px 5%;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.nav-link {
+    color:black;
+    border-bottom: 1px solid transparent;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 22px;
+    margin-top: 5px;
+    /*border: 1px solid red;*/
+}
+
+.nav-link:hover {
+    color:gray;
+    border-bottom: 1px solid gray;
+}
+
+.nav-link:hover i {
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s;
+}
+
+.carousel {
+    margin: 2% 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hr {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 50%;
+}
+
+.japa {
+    width: 100%;
+}
+
+.row-QS {
+    margin: 2% 10%;
+}
+
+.text h3 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 32px;
+}
+
+.text p {
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 20px;
+}
+
+.wd {
+    width: 18rem;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-title {
+    font-size: 28px;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.card-title, .card-text {
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.icon {
+    margin: 1.5%;
+    color: gray;
+}
+
+.icon:hover {
+    margin: 1.5%;
+    color: black;
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s;
+}
+
+.dev {
+    color: gray;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 18px;
+}
+
+.hr2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 70%;
+}
+
+
+
+
