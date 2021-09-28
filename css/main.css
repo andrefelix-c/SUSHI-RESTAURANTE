@@ -1,8 +1,16 @@
 
+/* Geral */
+
 .btn {
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 20px;
 }
+
+.row-m {
+    margin: 2% 10%;
+}
+
+/* Menu */
 
 .navbar {
     margin: 0px 5%;
@@ -19,7 +27,6 @@
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 22px;
     margin-top: 5px;
-    /*border: 1px solid red;*/
 }
 
 .nav-link:hover {
@@ -28,26 +35,33 @@
 }
 
 .nav-link:hover i {
-    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation: bounce;
     animation-duration: 3s;
 }
+
+/* Slide inicial */
 
 .carousel {
     margin: 2% 5%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+/* Linhas divisórias */ 
+
 .hr {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 50%;
 }
 
-.japa {
-    width: 100%;
+.hr2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 70%;
 }
 
-.row-QS {
-    margin: 2% 10%;
+/* Quem Somos */
+
+.japa {
+    width: 100%;
 }
 
 .text h3 {
@@ -61,6 +75,8 @@
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 20px;
 }
+
+/* Promoções */
 
 .wd {
     width: 18rem;
@@ -84,6 +100,8 @@
     font-family: 'Pathway Gothic One', sans-serif;
 }
 
+/* Footer e def. icons */
+
 .icon {
     margin: 1.5%;
     color: gray;
@@ -102,10 +120,6 @@
     font-size: 18px;
 }
 
-.hr2 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    width: 70%;
-}
 
 
 
