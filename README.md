@@ -36,7 +36,7 @@ Desenvolver um site, simples e rápido, que servisse para exercitar o conhecimen
 
 - #### SUSHI WEB PAGE - MOBILE :iphone: :
 
-<img src="./SCREENSHOTS\SUSHI - MOBILE.png" />
+<img src="./SCREENSHOTS/SUSHI - Mobile.png" />
 
 ---
 
