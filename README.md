@@ -28,7 +28,7 @@ Desenvolver um site, simples e rápido, que servisse para exercitar o conhecimen
 
 - #### SUSHI WEB PAGE - PC :computer: :
 
-<img src="./SCREENSHOTS\SUSHI - PC.png" />
+<img src="./SCREENSHOTS/SUSHI - PC.png" />
 
 ---
 
